@@ -1,0 +1,12 @@
+[book]
+title = "The MultiTest Book"
+authors = ["Dariusz Depta"]
+description = "Comprehensive guide on effectively testing CosmWasm smart contracts"
+language = "en"
+multilingual = false
+src = "src"
+
+[rust]
+edition = "2021"
+
+[preprocessor.yapp]
